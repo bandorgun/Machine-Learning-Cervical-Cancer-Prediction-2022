@@ -1,2 +1,5 @@
 # Machine-Learning-Cervical-Cancer-Prediction-2022-
-• Developed Artificial Neural Network model to predict customer churn using Telco Company dataset • Improved the model using both sequential and functional API • Tech Stack : Python, Pandas, Numpy, Seaborn, Scikit-Learn, Tensorflow-Keras, Streamlit, Docker, Heroku
+• Developed machine learning model that help to predict whether a woman is at risk of Cervical Cancer based on
+demography and medical history.
+• Deployed the backend using Flask and frontend using Streamlit
+• Tech Stack : Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Flask, Streamlit, Heroku
